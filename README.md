@@ -1,6 +1,6 @@
 # Algorithms, Data Structures & Connectionist AI
 
-**Team:** _TBD_ · **Course:** Foundations of CS & AI (BIT, 2026–27) · **Module:** Algorithms, Data Structures & Connectionist AI
+**Team:** 404: HINF · **Course:** Foundations of CS & AI (BIT, 2026–27) · **Module:** Algorithms, Data Structures & Connectionist AI
 
 ## Purpose
 
