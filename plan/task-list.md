@@ -8,13 +8,13 @@ Status values: `not started` · `in progress` · `under review` · `completed`. 
 |---|---|---|---|---|---|---|
 | 1.1 | Fill team table and roles | README team table complete | Coordinator | Oct 19 | not started | — |
 | 1.2 | Add every member as repo collaborator | All members can push | Repo lead | Oct 19 | not started | 1.1 |
-| 1.3 | Assign topic owners and reviewers | Owner/Reviewer set in each topic file | 李思瑞 | Oct 19 | not started | 1.1 |
+| 1.3 | Assign topic owners and reviewers | Owner/Reviewer set in each topic file | 李思瑞 | Oct 19 | completed | 1.1 |
 | 1.4 | Confirm Part 3 depth with teacher (overlap with Big Data team) | Decision recorded in project log | Coordinator | Oct 20 | not started | — |
-| 1.5 | Fully develop 3.2 Perceptron | Explanation, worked example, visual, activity, answer, references | _TBD_ | Oct 21 | not started | 1.3 |
-| 1.6 | Fully develop 1.3 Searching | Same as 1.5 | _TBD_ | Oct 21 | not started | 1.3 |
+| 1.5 | Fully develop 3.2 Perceptron | Explanation, worked example, visual, activity, answer, references | 李思瑞 | Oct 21 | not started | 1.3 |
+| 1.6 | Fully develop 1.3 Searching | Same as 1.5 | 李思瑞 | Oct 21 | not started | 1.3 |
 | 1.7 | Draft key ideas for all other topics | Each topic at `drafted` | Topic owners | Oct 22 | not started | 1.3 |
 | 1.8 | Draw diagrams for 1.3 and 3.2 | PNG/SVG files in `assets/images/` | Visual lead | Oct 21 | not started | 1.5, 1.6 |
-| 1.9 | Peer review 1.3 and 3.2 | Entry in `reviews/review-log.md` | Quality lead | Oct 22 | not started | 1.5, 1.6 |
+| 1.9 | Peer review 1.3 and 3.2 | Entry in `reviews/review-log.md` | Tharoath (1.3), Irada (3.2) | Oct 22 | not started | 1.5, 1.6 |
 | 1.10 | Verify references | Used sources moved to *Verified* | Topic owners | Oct 22 | not started | 1.7 |
 | 1.11 | Write project plan document | `TeamName_Stage1_ProjectPlan` | Coordinator + all | Oct 22 | not started | 1.3, 1.4 |
 | 1.12 | Compile project log and contribution table | `TeamName_Stage1_ProjectLog` | Coordinator | Oct 23 | not started | — |

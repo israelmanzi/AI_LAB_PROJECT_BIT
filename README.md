@@ -12,22 +12,22 @@ This Markdown content is the shared source for our **Study Guide**, **PPT Slides
 
 ## Team
 
-| #   | Name   | Student ID | Role                         | GitHub       |
-| --- | ------ | ---------- | ---------------------------- | ------------ |
-| 1   |        |            | Coordinator                  |              |
-| 2   |        |            | Repository & submission lead |              |
-| 3   | 李思瑞 | 1820262270 | Content lead                 | @israelmanzi |
-| 4   |        |            | Visual design lead           |              |
-| 5   |        |            | Video lead                   |              |
-| 6   |        |            | Quality lead                 |              |
-| 7   |        |            | Test bank & activities       |              |
+| #   | Name     | Student ID | Role         | Topics             | GitHub        |
+| --- | -------- | ---------- | ------------ | ------------------ | ------------- |
+| 1   | Israel   | 1820262270 | Content lead | 1.3, 3.2, 3.3, 3.4 | @israelmanzi  |
+| 2   | Tharoath | 1820262263 |              | 1.1, 1.2           | @tharoath     |
+| 3   | Felix    | 1820262004 |              | 1.4, 1.5, 1.6      | @Fel-IX27     |
+| 4   | Ibrahim  | 1820262232 |              | 2.1, 2.2           | @iboo-bit     |
+| 5   | Aylin    | 1820262268 |              | 2.3, 2.4           | @ailink04     |
+| 6   | Elinna   | 1820262255 |              | 2.5                | @ellllee-cmyk |
+| 7   | Irada    | 1820262229 |              | 3.1, 3.5, 3.6      | @k-irada      |
 
 ## Repository structure
 
 ```
 content/
   00-module-outline.md      Learning outcomes, topic sequence, status of every section
-  part1-algorithms/         Topics 1.1–1.5
+  part1-algorithms/         Topics 1.1–1.6
   part2-data-structures/    Topics 2.1–2.5
   part3-connectionist-ai/   Topics 3.1–3.6
   references.md             Sources for all topics
