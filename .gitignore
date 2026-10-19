@@ -1,0 +1,24 @@
+# Whitelist: only submission materials are tracked.
+# Course files, logs, research notes and builds stay local (Documents/, local/).
+/*
+!/.gitignore
+!/README.md
+!/content/
+!/assets/
+!/plan/
+!/reviews/
+
+# Never track, even inside tracked folders
+*.zip
+*.pdf
+*.doc
+*.docx
+*.pptx
+~$*
+.~lock.*
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
