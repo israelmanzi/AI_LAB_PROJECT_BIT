@@ -12,15 +12,15 @@ This Markdown content is the shared source for our **Study Guide**, **PPT Slides
 
 ## Team
 
-| # | Name | Student ID | Role | GitHub |
-|---|---|---|---|---|
-| 1 | | | Coordinator | |
-| 2 | | | Repository & submission lead | |
-| 3 | 李思瑞 | 1820262270 | Content lead | @israelmanzi |
-| 4 | | | Visual design lead | |
-| 5 | | | Video lead | |
-| 6 | | | Quality lead | |
-| 7 | | | Test bank & activities | |
+| #   | Name   | Student ID | Role                         | GitHub       |
+| --- | ------ | ---------- | ---------------------------- | ------------ |
+| 1   |        |            | Coordinator                  |              |
+| 2   |        |            | Repository & submission lead |              |
+| 3   | 李思瑞 | 1820262270 | Content lead                 | @israelmanzi |
+| 4   |        |            | Visual design lead           |              |
+| 5   |        |            | Video lead                   |              |
+| 6   |        |            | Quality lead                 |              |
+| 7   |        |            | Test bank & activities       |              |
 
 ## Repository structure
 
@@ -38,8 +38,8 @@ reviews/review-log.md       Content review records
 
 ## Progress (Stage 1)
 
-| Done | In progress | Remaining |
-|---|---|---|
+| Done                                        | In progress                          | Remaining                                       |
+| ------------------------------------------- | ------------------------------------ | ----------------------------------------------- |
 | Module chosen, repo set up, outline drafted | Topic owners, first developed topics | Full drafts of all topics, peer review, visuals |
 
 Status labels used in every topic: `outline only` → `drafted` → `checked` / `needs revision`.
