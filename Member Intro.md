@@ -8,7 +8,7 @@ Felix =\
 He is interested in exploring new things, especially gaming, which is a big part of his life. He has experience in video and photo editing, photography, videography, AI tools, and virtual machines, with some previous exposure to programming. He hopes to improve his coding and editing skills, explore 3D modeling, and deepen his understanding of AI, with the long-term dream of creating his own AI. As a teammate, he is committed to completing his assigned tasks and finding solutions when challenges arise.
 
 Ibrahim =\
-
+I am interested in AI and enjoy exploring new AI tools and learning how to write better prompts. I also like creating videos and advertisements using AI, and I have experience editing videos. I am still a beginner in programming, but I find it fun and interesting when I can solve a problem or make something work. I want to improve my programming skills and learn how to combine programming with AI in creative ways.
 
 Aylin =\
 This person has a strong interest in technology and creative fields, particularly video games, 3D modeling, digital art, and video editing. With experience in Java programming, basic web development, and multimedia production, she combines technical knowledge with creativity. she aims to strengthen her computer science fundamentals and expand her understanding of artificial intelligence while collaborating with motivated teammates to produce high-quality work.
