@@ -19,7 +19,7 @@ This Markdown content is the shared source for our **Study Guide**, **PPT Slides
 | 3   | Felix    | 1820262004 |              | 1.1, 1.2           | @Fel-IX27     |
 | 4   | Ibrahim  | 1820262232 |              | 2.1, 2.2           | @iboo-bit     |
 | 5   | Aylin    | 1820262268 |              | 2.3, 2.4           | @ailink04     |
-| 6   | Elinna   | 1820262255 |              | 2.5                | @ellllee-cmyk |
+| 6   | Elinna   | 1820262255 |  CEO           | 2.5                | @ellllee-cmyk |
 | 7   | Irada    | 1820262229 |              | 3.1, 3.5, 3.6      | @k-irada      |
 
 ## Repository structure
