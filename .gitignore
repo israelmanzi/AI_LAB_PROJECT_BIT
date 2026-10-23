@@ -4,9 +4,6 @@
 !/.gitignore
 !/README.md
 !/content/
-!/assets/
-!/plan/
-!/reviews/
 
 # Never track, even inside tracked folders
 *.zip
