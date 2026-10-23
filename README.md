@@ -15,8 +15,8 @@ This Markdown content is the shared source for our **Study Guide**, **PPT Slides
 | #   | Name     | Student ID | Role         | Topics             | GitHub        |
 | --- | -------- | ---------- | ------------ | ------------------ | ------------- |
 | 1   | Israel   | 1820262270 | Content lead | 1.3, 3.2, 3.3, 3.4 | @israelmanzi  |
-| 2   | Tharoath | 1820262263 |              | 1.1, 1.2           | @tharoath     |
-| 3   | Felix    | 1820262004 |              | 1.4, 1.5, 1.6      | @Fel-IX27     |
+| 2   | Tharoath | 1820262263 |              | 1.4, 1.5, 1.6      | @tharoath     |
+| 3   | Felix    | 1820262004 |              | 1.1, 1.2           | @Fel-IX27     |
 | 4   | Ibrahim  | 1820262232 |              | 2.1, 2.2           | @iboo-bit     |
 | 5   | Aylin    | 1820262268 |              | 2.3, 2.4           | @ailink04     |
 | 6   | Elinna   | 1820262255 |              | 2.5                | @ellllee-cmyk |
