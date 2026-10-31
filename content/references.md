@@ -1,6 +1,6 @@
 # References
 
-Sources used in Markdown Content v1.0.
+Sources for the module, grouped by topic.
 
 ## Arrays, linked lists and queues
 
