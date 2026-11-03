@@ -62,7 +62,7 @@ When an append would exceed the capacity, the array allocates a larger block, us
 | append 40 | 4    | 4        | `10, 20, 30, 40`              | write 40                     |
 | append 50 | 5    | 8        | `10, 20, 30, 40, 50, _, _, _` | allocate 8, copy 4, write 50 |
 
-![Dynamic array growth by doubling](assets/images/1.1-dynamic-array.png)
+![Dynamic array growth by doubling](assets/images/2.1-dynamic-array.png)
 _Solid cells hold elements. Dashed cells are allocated but unused. A resize allocates a new block and copies every existing element._
 
 ### Linked list
@@ -92,12 +92,12 @@ Properties:
 
 **Array.** The array has one free slot. Inserting at index 3 moves the elements at indexes 3, 4 and 5 one position right, then writes 15 into index 3.
 
-![Array insertion](assets/images/1.1-array-insert.png)
+![Array insertion](assets/images/2.1-array-insert.png)
 _The three elements after the insertion point shift right. The new element fills index 3._
 
 **Linked list.** The new node goes after the node containing 30. Two pointers change: the new node points to 40, then 30 points to the new node.
 
-![Linked-list insertion](assets/images/1.1-linked-insert.png)
+![Linked-list insertion](assets/images/2.1-linked-insert.png)
 _Step 1 links the new node to the rest of the list. Step 2 links 30 to the new node. No other node moves._
 
 The order matters. If 30 pointed to 15 first, the only reference to 40 would be lost.
@@ -106,7 +106,7 @@ The order matters. If 30 pointed to 15 first, the only reference to 40 would be 
 
 > How the data structures are stored out in memory.
 
-![Array and linked list in memory](assets/images/1.1-array-vs-linked-list.png)
+![Array and linked list in memory](assets/images/2.1-array-vs-linked-list.png)
 _The array occupies consecutive addresses that differ by the element size. The linked list nodes are non-contiguous, and their logical order is defined only by the pointers._
 
 ### Activity: choose a structure for a music playlist
@@ -205,7 +205,7 @@ Each **node** stores a value and a pointer to the next node. The queue maintains
 2. If the queue is empty, set both head and tail to the new node.
 3. Otherwise, change the current tail's next pointer from null to the new node, then set tail to the new node.
 
-![Enqueue steps](assets/images/1.2-enqueue-steps.png)
+![Enqueue steps](assets/images/2.2-enqueue-steps.png)
 _Steps 2 to 4: create a node with next = null, link the old tail to it, then move tail. Step 5 repeats the same three steps._
 
 #### Dequeue
@@ -216,7 +216,7 @@ _Steps 2 to 4: create a node with next = null, link the old tail to it, then mov
 4. If head is now null, the queue is empty, so set tail to null as well.
 5. Return the saved value.
 
-![Dequeue steps](assets/images/1.2-dequeue-steps.png)
+![Dequeue steps](assets/images/2.2-dequeue-steps.png)
 _The head node is detached each time. When the last node is removed, both head and tail become null._
 
 The last step matters. Without it, tail would still point to the removed node, and the next enqueue would link a new node after a node that is no longer in the queue.
