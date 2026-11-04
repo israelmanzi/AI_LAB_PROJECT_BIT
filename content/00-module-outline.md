@@ -42,8 +42,8 @@ Status labels: `outline only`, `drafted`, `developed`, `checked`, `needs revisio
 | --- | ------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------ |
 | 2.1 | Arrays and Linked Lists              | Contiguous storage; indexing; nodes, pointers; access, insert, delete costs; matrices | Insert into array vs linked list; weight matrix        | developed |
 | 2.2 | Stacks and Queues                    | LIFO, FIFO; push, pop, enqueue, dequeue; applications                                 | Bracket check; undo, printer queue                     | developed |
-| 2.3 | Hash Tables                          | Hash functions; buckets; collisions, chaining; O(1) average                           | Five names mod 7; collisions                           | outline only |
-| 2.4 | Trees, Binary Search Trees and Heaps | Tree terms; BST insert/search; balanced vs degenerate; heaps, priority queues         | BST from [50, 30, 70, 20, 40, 60, 80]; min-heap triage | outline only |
+| 2.3 | Hash Tables                          | Hash functions; buckets; collisions, chaining; O(1) average                           | Five names mod 7; collisions                           | drafted |
+| 2.4 | Trees, Binary Search Trees and Heaps | Tree terms; BST insert/search; balanced vs degenerate; heaps, priority queues         | BST from [50, 30, 70, 20, 40, 60, 80]; min-heap triage | drafted |
 | 2.5 | Graphs, BFS and DFS                  | Nodes, edges, adjacency lists; BFS; DFS; weighted graphs, Dijkstra                    | Metro fewest stops; 9 km vs 7 km                       | drafted |
 
 ### Part 3: Connectionist AI
