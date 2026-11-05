@@ -30,11 +30,11 @@ Status labels: `outline only`, `drafted`, `developed`, `checked`, `needs revisio
 | #   | Topic                               | Subtopics                                                                                             | Planned example/activity                                                      | Status       |
 | --- | ----------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ |
 | 1.1 | What Is an Algorithm?               | Definition, properties; algorithm vs program; pseudocode; flowcharts; sequence, selection, repetition | Largest number in a list; flowchart                                           | drafted |
-| 1.2 | Measuring Efficiency: Big-O         | Step counting; O(1), O(log n), O(n), O(n log n), O(n²); worst case; constants                         | Step counts at n = 10, 1k, 1M; rank snippets                                  | outline only |
+| 1.2 | Measuring Efficiency: Big-O         | Step counting; O(1), O(log n), O(n), O(n log n), O(n²); worst case; constants                         | Step counts at n = 10, 1k, 1M; rank snippets                                  | drafted |
 | 1.3 | Searching: Linear and Binary Search | Linear; binary; sorted-list requirement; O(n) vs O(log n)                                             | Trace 23 in a 10-item list; guess 1-100 in 7 tries; odd length, missing value | drafted |
-| 1.4 | Sorting                             | Selection, insertion; merge; divide and conquer; O(n²) vs O(n log n)                                  | Merge sort [38, 27, 43, 3, 9, 82, 10]; card sort                              | outline only |
-| 1.5 | Recursion                           | Base case; recursive case; call stack; factorial, sum                                                 | factorial(4) call stack                                                       | outline only |
-| 1.6 | Algorithm Design Strategies         | Brute force; greedy; divide and conquer; dynamic programming; memoisation                             | Coin change {1, 3, 4}, amount 6; Fibonacci naive vs memoised                  | outline only |
+| 1.4 | Sorting                             | Selection, insertion; merge; divide and conquer; O(n²) vs O(n log n)                                  | Merge sort [38, 27, 43, 3, 9, 82, 10]; card sort                              | drafted |
+| 1.5 | Recursion                           | Base case; recursive case; call stack; factorial, sum                                                 | factorial(4) call stack                                                       | drafted |
+| 1.6 | Algorithm Design Strategies         | Brute force; greedy; divide and conquer; dynamic programming; memoisation                             | Coin change {1, 3, 4}, amount 6; Fibonacci naive vs memoised                  | drafted |
 
 ### Part 2: Data Structures
 
