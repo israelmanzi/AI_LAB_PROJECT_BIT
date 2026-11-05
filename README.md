@@ -41,11 +41,10 @@ content/
 
 ## Current progress
 
-We are preparing the Stage 1 submission, due October 24.
+All 17 topics are developed. Each one has learning outcomes, explanations of its terms, a worked example with concrete numbers, learner questions with checked answers, and references. Every topic also includes at least one task that asks for a trace, a prediction, a comparison or an error to be found, not only recall.
 
-- The module outline is complete: 17 topics across algorithms, data structures and connectionist AI, arranged in learning order.
-- Every topic has an owner and a reviewer on the team.
-- Each member is studying their assigned topics and drafting explanations, worked examples and activities for them.
-- Developed topics: 2.1 Arrays and Linked Lists, 2.2 Stacks and Queues. Drafted topics: 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 2.3, 2.4, 2.5, 3.1, 3.2, 3.3, 3.4. The remaining two topics, 3.5 and 3.6, are being researched and their documentation is written actively.
-- 1.3, 2.1, 2.2 and 3.2 are our selected topics for mini lecture and video recording, and we are preparing PPTs and respective materials for them.
-- The repository structure, README and module outline are in place. Diagrams and figures are being added as the topics are written.
+- Part 1: algorithms, Big-O, searching, sorting, recursion and design strategies.
+- Part 2: arrays, linked lists, stacks, queues, hash tables, trees, heaps and graphs.
+- Part 3: rules and learning, the perceptron, layers, how networks learn, training in practice, and deep learning today.
+
+What remains is the Stage 2 delivery work: the study guide with its test bank, the slides, the video tutorials and the mini lecture.
