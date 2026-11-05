@@ -52,8 +52,8 @@ Status labels: `outline only`, `drafted`, `developed`, `checked`, `needs revisio
 | --- | --------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------- | ------------ |
 | 3.1 | From Rules to Learning                        | Symbolic vs connectionist; biological vs artificial neuron; supervised vs unsupervised; timeline | Spam rules vs learned; classify tasks             | drafted |
 | 3.2 | The Perceptron                                | Weighted sum; bias; step function; decision boundary; learning rule; epochs; XOR limit           | AND by hand; learn OR in 4 epochs; XOR impossible | drafted |
-| 3.3 | Multi-layer Networks and the Forward Pass     | Door-light XOR; why one threshold fails; hidden and output layers; forward pass                  | Car door light: three neurons, then remove two    | drafted |
-| 3.4 | How Networks Learn: Loss and Gradient Descent | Loss; downhill step; learning rate; backprop as blame                                | Minimise w² from 4, n = 0.25 and 1.1              | drafted |
+| 3.3 | Multi-layer Networks                          | Door-light XOR; why one threshold fails; hidden and output layers; forward pass                  | Car door light: three neurons, then remove two    | drafted |
+| 3.4 | How Networks Learn                            | Loss; downhill step; learning rate; backprop as blame                                | Minimise w² from 4, n = 0.25 and 1.1              | drafted |
 | 3.5 | Training in Practice: Data and Overfitting    | Train/test split; overfitting, underfitting; generalisation; remedies                            | TensorFlow Playground; label 3 loss curves        | outline only |
 | 3.6 | Deep Learning Today: CNNs, RNNs, Transformers | CNNs; RNNs; transformers; applications; limitations                                              | Match 5 applications to architectures             | outline only |
 
