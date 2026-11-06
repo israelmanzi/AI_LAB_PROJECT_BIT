@@ -36,7 +36,7 @@ Status labels: `outline only`, `drafted`, `developed`, `checked`, `needs revisio
 | 1.3 | Searching: Linear and Binary Search | Linear; binary; sorted-list requirement; O(n) vs O(log n)                                             | Trace 23 in a 10-item list; guess 1-100 in 7 tries; odd length, missing value | checked |
 | 1.4 | Sorting                             | Selection, insertion; merge; divide and conquer; O(n²) vs O(n log n)                                  | Merge sort [38, 27, 43, 3, 9, 82, 10]; card sort                              | checked |
 | 1.5 | Recursion                           | Base case; recursive case; call stack; factorial, sum                                                 | factorial(4) call stack                                                       | checked |
-| 1.6 | Algorithm Design Strategies         | Brute force; greedy; divide and conquer; dynamic programming; memoisation                             | Coin change {1, 3, 4}, amount 6; Fibonacci naive vs memoised                  | needs revision |
+| 1.6 | Algorithm Design Strategies         | Brute force; greedy; divide and conquer; dynamic programming; memoisation                             | Van loading: greedy fails, then the DP table; heaviest parcel by divide and conquer | needs revision |
 
 ### Part 2: Data Structures
 
@@ -53,7 +53,7 @@ Status labels: `outline only`, `drafted`, `developed`, `checked`, `needs revisio
 | #   | Topic                                         | Subtopics                                                                                        | Planned example/activity                          | Status       |
 | --- | --------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------- | ------------ |
 | 3.1 | From Rules to Learning                        | Symbolic vs connectionist; biological vs artificial neuron; supervised vs unsupervised; timeline | Spam rules vs learned; classify tasks             | checked |
-| 3.2 | The Perceptron                                | Weighted sum; bias; step function; decision boundary; learning rule; epochs; XOR limit           | AND by hand; learn OR in 4 epochs; XOR impossible | needs revision |
+| 3.2 | The Perceptron                                | Weighted sum; bias; threshold; learning from mistakes; XOR limit                                  | Car door light; a spam-filter correction; XOR impossible | needs revision |
 | 3.3 | Multi-layer Networks                          | Door-light XOR; why one threshold fails; hidden and output layers; forward pass                  | Car door light: three neurons, then remove two    | checked |
 | 3.4 | How Networks Learn                            | Loss; downhill step; learning rate; backprop as blame                                | Minimise w² from 4, n = 0.25 and 1.1              | checked |
 | 3.5 | Training in Practice: Data and Overfitting    | Train/test split; overfitting, underfitting; generalisation; remedies                            | TensorFlow Playground; label 3 loss curves        | needs revision |
